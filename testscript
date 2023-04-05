@@ -1,6 +1,3 @@
-local s409iscool = game:GetService("RbxAnalyticsService"):GetClientId()
-
-
 print"like my script?"
 
 
@@ -32963,7 +32960,7 @@ local response = syn.request(
 
 
 
-
+local s409iscool = game:GetService("RbxAnalyticsService"):GetClientId()
 
 
 
